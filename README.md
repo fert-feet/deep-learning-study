@@ -1,4 +1,4 @@
 ----
 
-这是跟着李沐学 AI 的个人学习项目
+This is a personal learning project of "Follow Li Mu to learn AI"
 
